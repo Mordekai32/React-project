@@ -1,3 +1,5 @@
+
+  
 # Hi, I'm Mordekai 👋
 
 Full Stack Developer | Python & JavaScript | Open Source Contributor
@@ -13,12 +15,15 @@ Full Stack Developer | Python & JavaScript | Open Source Contributor
 ---
 
 ## Projects
-- [Project1](https://github.com/Mordekai/project1) - React-project
-- [Project2](https://github.com/Mordekai/project2) - ubwuzu
-- - [Project1](https://github.com/Mordekai/project1) - project
+- [Project1](https://github.com/Mordekai/project1) - ubwuzu
+- [Project2](https://github.com/Mordekai/project2) - React-project
+- - [Project2](https://github.com/Mordekai/project2) - project
 
 ---
 
 ## Connect with me
+- 📍 Location: Kigali, Rwanda  
+- 📧 Email: mordekai893@gmail.com
 - [Instagram](https://www.instagram.com/M.blaise_320/)
 - [Facebook](https://www.facebook.com/UMMordekai)
+
