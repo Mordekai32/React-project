@@ -1,4 +1,4 @@
-# 👋 Hello, I'm UKOBUKEYE Mordekai 🇷🇼
+# 👋 Hello, I'm UKOBUKEYE Mordekai
 ### 🚀 Full-Stack Developer | Software Engineer | Tech Enthusiast
 
 I am a professional **Software Developer** focused on building high-performance web applications that solve real-world business problems. I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) and **TypeScript**.
